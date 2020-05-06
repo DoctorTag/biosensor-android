@@ -1,0 +1,1052 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 18 min SDK version: x86_64",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\add-ons\\addon-google_apis-google-21\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\add-ons\\addon-google_apis-google-22\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\add-ons\\addon-google_apis-google_inc_-14\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027add-ons;addon-google_apis-google-14\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon-google_apis-google_inc_-14\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon-google_apis-google-14\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\add-ons\\addon-google_gdk-google-15\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\add-ons\\addon_edk_sony_ericsson_mobile_communications_ab_9\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027add-ons;addon-edk-sony_ericsson_mobile_communications_ab-9\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon_edk_sony_ericsson_mobile_communications_ab_9\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon-edk-sony_ericsson_mobile_communications_ab-9\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\add-ons\\addon_galaxy_tab_samsung_electronics_8\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027add-ons;addon-galaxy_tab-samsung_electronics-8\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon_galaxy_tab_samsung_electronics_8\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon-galaxy_tab-samsung_electronics-8\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing legacy package: C:\\seanfan\\android\\sdk\\add-ons\\addon_galaxy_tab_samsung_electronics_8-2",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing legacy package: C:\\seanfan\\android\\sdk\\add-ons\\addon_galaxy_tab_samsung_electronics_8-3",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_10\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027add-ons;addon-google_apis-google_inc-10\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_10\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon-google_apis-google_inc-10\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_11\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027add-ons;addon-google_apis-google_inc-11\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_11\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon-google_apis-google_inc-11\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_12\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027add-ons;addon-google_apis-google_inc-12\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_12\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon-google_apis-google_inc-12\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_13\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027add-ons;addon-google_apis-google_inc-13\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_13\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon-google_apis-google_inc-13\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_3\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027add-ons;addon-google_apis-google_inc-3\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_3\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon-google_apis-google_inc-3\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_4\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027add-ons;addon-google_apis-google_inc-4\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_4\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon-google_apis-google_inc-4\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_7\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027add-ons;addon-google_apis-google_inc-7\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_7\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon-google_apis-google_inc-7\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_8\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027add-ons;addon-google_apis-google_inc-8\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_8\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon-google_apis-google_inc-8\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_9\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027add-ons;addon-google_apis-google_inc-9\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon_google_apis_google_inc_9\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\add-ons\\addon-google_apis-google_inc-9\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing legacy package: C:\\seanfan\\android\\sdk\\android-compatibility",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\17.0.0\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\18.1.1\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\19.0.0\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\19.1.0\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\21.0.0\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\21.0.1\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\21.0.2\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\21.1.0\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\21.1.1\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\21.1.2\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\22.0.0\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\22.0.1\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\23.0.1\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\23.0.2\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\25.0.1\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\26.0.2\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\27.0.3\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\28.0.1\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\28.0.2\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\28.0.3\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\30.0.0-rc2\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\build-tools\\android-4.4W\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027build-tools;20.0.0\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\build-tools\\android-4.4W\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\build-tools\\20.0.0\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing legacy package: C:\\seanfan\\android\\sdk\\build-tools\\build-tools-21.1.2",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\cmake\\3.10.2.4988404\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\cmake\\3.6.4111459\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\docs\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\emulator\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\android\\m2repository\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\android\\support\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\google\\admob_ads_sdk\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\google\\analytics_sdk_v2\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\google\\gcm\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\google\\google_play_services\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\google\\google_play_services_fit_preview\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\google\\google_play_services_froyo\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\google\\instantapps\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\google\\m2repository\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\google\\play_apk_expansion\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\google\\play_billing\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\google\\play_licensing\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\google\\simulators\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\google\\usb_driver\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\google\\webdriver\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\m2repository\\com\\android\\support\\constraint\\constraint-layout-solver\\1.0.2\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\extras\\m2repository\\com\\android\\support\\constraint\\constraint-layout\\1.0.2\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing legacy package: C:\\seanfan\\android\\sdk\\google-market_billing",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing legacy package: C:\\seanfan\\android\\sdk\\google-market_licensing",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing legacy package: C:\\seanfan\\android\\sdk\\google-usb_driver",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\lldb\\3.1\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\ndk-bundle\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\ndk\\21.1.6352462\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\patcher\\v4\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platform-tools\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-10\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-11\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-12\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-13\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-14\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-15\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-16\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-17\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-18\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-19\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-2.1_r02-windows\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027platforms;android-7\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\platforms\\android-2.1_r02-windows\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\platforms\\android-7\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-20\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-21\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-22\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-23\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-25\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-26\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-27\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-28\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-3\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-4\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing legacy package: C:\\seanfan\\android\\sdk\\platforms\\android-7",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-8\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\platforms\\android-9\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-10\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-11\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-12\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-13\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-14\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-15\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing legacy package: C:\\seanfan\\android\\sdk\\samples\\android-15_1",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-16\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing legacy package: C:\\seanfan\\android\\sdk\\samples\\android-16_1",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing legacy package: C:\\seanfan\\android\\sdk\\samples\\android-16_2",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-17\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-18\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-19\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-20\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-21\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-22\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-23\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-7\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-8\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\samples\\android-9\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\sources\\android-14\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\sources\\android-15\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\sources\\android-16\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\sources\\android-17\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\sources\\android-18\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\sources\\android-19\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\sources\\android-20\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\sources\\android-21\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\sources\\android-22\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\sources\\android-26\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\sources\\android-27\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\sources\\android-28\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\system-images\\addon-google_apis-google-22\\x86\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027system-images;android-22;google_apis;x86\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\system-images\\addon-google_apis-google-22\\x86\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\system-images\\android-22\\google_apis\\x86\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\system-images\\android-14\\armeabi-v7a\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "WARN",
+    "message": "Observed package id \u0027system-images;android-14;default;armeabi-v7a\u0027 in inconsistent location \u0027C:\\seanfan\\android\\sdk\\system-images\\android-14\\armeabi-v7a\u0027 (Expected \u0027C:\\seanfan\\android\\sdk\\system-images\\android-14\\default\\armeabi-v7a\u0027)",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\system-images\\android-20\\android-wear\\armeabi-v7a\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\system-images\\android-21\\android-tv\\armeabi-v7a\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\system-images\\android-21\\android-wear\\armeabi-v7a\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\system-images\\android-22\\android-tv\\armeabi-v7a\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\system-images\\android-22\\default\\armeabi-v7a\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\system-images\\android-22\\default\\x86_64\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\system-images\\android-22\\google_apis\\x86\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\system-images\\android-23\\android-tv\\armeabi-v7a\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\seanfan\\android\\sdk\\tools\\package.xml",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027C:\\seanfan\\android\\sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.6.0\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\.cxx\\cmake\\debug\\x86_64\\android_gradle_build.json due to:",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\.cxx\\cmake\\debug\\x86_64\u0027",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\.cxx\\cmake\\debug\\x86_64\u0027",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\seanfan\\android\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HC:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\seanfan\\android\\sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003dx86_64\n-DANDROID_NDK\u003dC:\\seanfan\\android\\sdk\\ndk\\21.1.6352462\n-DANDROID_PLATFORM\u003dandroid-18\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DCMAKE_ANDROID_NDK\u003dC:\\seanfan\\android\\sdk\\ndk\\21.1.6352462\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\n-DCMAKE_MAKE_PROGRAM\u003dC:\\seanfan\\android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d18\n-BC:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\.cxx\\cmake\\debug\\x86_64\n-GNinja\njvmArgs : \n\n",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "ERROR",
+    "message": "Not a directory: C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"C:/seanfan/2020/android/feel_demo/biosensor_android/app/src/main/cpp\",\n  \"buildDirectory\": \"C:/seanfan/2020/android/feel_demo/biosensor_android/app/.cxx/cmake/debug/x86_64\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"errorMessage\":\"Failed to activate protocol version: \\\"sourceDirectory\\\" is not a directory.\",\"inReplyTo\":\"handshake\",\"type\":\"error\"}\n",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "ERROR",
+    "message": "Failed to activate protocol version: \"sourceDirectory\" is not a directory.",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dC:\\\\seanfan\\\\android\\\\sdk\\\\ndk\\\\21.1.6352462\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003dx86_64\",\n    \"-DANDROID_NDK\\u003dC:\\\\seanfan\\\\android\\\\sdk\\\\ndk\\\\21.1.6352462\",\n    \"-DANDROID_PLATFORM\\u003dandroid-18\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86_64\",\n    \"-DCMAKE_ANDROID_NDK\\u003dC:\\\\seanfan\\\\android\\\\sdk\\\\ndk\\\\21.1.6352462\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dC:\\\\seanfan\\\\2020\\\\android\\\\feel_demo\\\\biosensor_android\\\\app\\\\build\\\\intermediates\\\\cmake\\\\debug\\\\obj\\\\x86_64\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dC:\\\\seanfan\\\\android\\\\sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d18\"\n  ]\n}\n",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"errorMessage\":\"Waiting for type \\\"handshake\\\".\",\"inReplyTo\":\"configure\",\"type\":\"error\"}\n",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "ERROR",
+    "message": "Waiting for type \"handshake\".",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: Error configuring CMake server (C:\\seanfan\\android\\sdk\\cmake\\3.10.2.4988404\\bin).\r\n",
+    "file": "C:\\seanfan\\2020\\android\\feel_demo\\biosensor_android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86_64"
+  }
+]

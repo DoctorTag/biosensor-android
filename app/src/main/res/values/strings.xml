@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BioSensorDemo</string>
+    <string name="connect_fail">connection failed</string>
+    <string name="connect_ok">connection OK</string>
+    <string name="active_disconnected">disconnect</string>
+    <string name="disconnected">Connection disconnect</string>
+    <string name="device_error">device uuid error</string>
+    <string name="ssid_pwd">Please enter WiFi SSID and PWD,separated by Space</string>
+
+    <string name="please_open_blue">Please turn on Bluetooth first</string>
+    <string name="notifyTitle">Prompt</string>
+    <string name="gpsNotifyMsg">Current mobile phone scanning Bluetooth needs to open the positioning function</string>
+    <string name="setting">Go to settings</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

@@ -1,0 +1,44 @@
+apply plugin: 'com.android.application'
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+android {
+    compileSdkVersion rootProject.ext.android.COMPILE_SDK_VERSION
+    defaultConfig {
+        applicationId "seeker.luckyecgdemo"
+        minSdkVersion rootProject.ext.android.MIN_SDK_VERSION
+        targetSdkVersion rootProject.ext.android.TARGET_SDK_VERSION
+        versionCode rootProject.ext.android.VERSION_CODE
+        versionName rootProject.ext.android.VERSION_NAME
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+            
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+
+}
+
+dependencies {
+    api rootProject.ext.dependencies["appcompat-androidx"]
+    api 'com.google.code.gson:gson:2.8.6'
+    implementation project(':LuckyEcgChart')
+    //基础的 OkSocket 功能集成包.您的Socket开发无论是客户端还是Java,都需要此包 (必须集成)
+   implementation 'com.clj.fastble:FastBleLib:2.3.4'
+    //Basic Socket client functionality
+    api 'com.tonystark.android:socket:latest.release'
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
+    //If you want to use server functionality, you need to compile the following libraries
+   // api 'com.tonystark.android:socket-server:latest.release'
+
+}
