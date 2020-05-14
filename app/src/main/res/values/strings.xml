@@ -6,11 +6,15 @@
     <string name="disconnected">Connection disconnect</string>
     <string name="device_error">device uuid error</string>
     <string name="ssid_pwd">Please enter WiFi SSID and PWD,separated by Space</string>
-
+    <string name="config_wifi">Config WiFi</string>
     <string name="please_open_blue">Please turn on Bluetooth first</string>
     <string name="notifyTitle">Prompt</string>
     <string name="gpsNotifyMsg">Current mobile phone scanning Bluetooth needs to open the positioning function</string>
     <string name="setting">Go to settings</string>
     <string name="cancel">Cancel</string>
 
+    <string name="rt_ECG">Realtime ECG</string>
+    <string name="static_ECG">Static ECG</string>
+    <string name="ECG_image">ECG Image</string>
+    <string name="scan_ip">Scan IP</string>
 </resources>

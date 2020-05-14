@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:onClick="onBtnClick"
-        android:text="实时心电图" />
+        android:text="@string/rt_ECG" />
 
     <Button
         android:id="@+id/ecgStatic_btn"
@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:onClick="onBtnClick"
-        android:text="静态心电图" />
+        android:text="@string/static_ECG" />
 
     <Button
         android:id="@+id/createimage_btn"
@@ -35,7 +35,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:onClick="onBtnClick"
-        android:text="生成心电图片" />
+        android:text="@string/ECG_image" />
 
     <Button
         android:id="@+id/setwfssid_btn"
@@ -43,6 +43,24 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:onClick="onBtnClick"
-        android:text="设置WIFI" />
+        android:text="@string/config_wifi" />
 
-</LinearLayout>
+    <!--   <Button
+          android:id="@+id/scan_ip_btn"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="10dp"
+          android:onClick="onBtnClick"
+          android:text="@string/scan_ip" />
+  -->
+      <TextView
+          android:id="@+id/ip_string"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="IP address is unknown"
+          android:background="#ccc"
+          android:gravity="center"
+          android:textColor="@color/colorAccent"
+          android:textSize="20sp"/>
+
+  </LinearLayout>

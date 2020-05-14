@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BioSensorDemo</string>
+    <string name="connect_fail">连接失败</string>
+    <string name="connect_ok">连接成功</string>
+    <string name="active_disconnected">连接断开</string>
+    <string name="disconnected">连接断开</string>
+    <string name="device_error">设备UUID错误</string>
+    <string name="ssid_pwd">请输入WIFI用户名和密码，以空格分隔</string>
+    <string name="config_wifi">WIFI配网</string>
+
+    <string name="please_open_blue">请打开蓝牙</string>
+    <string name="notifyTitle">Prompt</string>
+    <string name="gpsNotifyMsg">Current mobile phone scanning Bluetooth needs to open the positioning function</string>
+    <string name="setting">去设置</string>
+    <string name="cancel">取消</string>
+
+    <string name="rt_ECG">实时心电图</string>
+    <string name="static_ECG">静态心电图</string>
+    <string name="ECG_image">生成心电图片</string>
+    <string name="scan_ip">扫描设备IP</string>
+</resources>

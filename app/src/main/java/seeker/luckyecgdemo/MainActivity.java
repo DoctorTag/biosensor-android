@@ -19,6 +19,7 @@ import android.provider.Settings;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -200,11 +201,11 @@ public class MainActivity extends AppCompatActivity {
                 }
                 ip_addr = sharedPreferences.getString("IP", null);
                 if (ip_addr != null) {
-                    BLEDisconnect(bleconnbleDevice);
-                    mInfo = new ConnectionInfo(ip_addr, 3338);
-                    mOKManager = OkSocket.open(mInfo).option(mOkOptions);
-                    mOKManager.registerReceiver(adapter);
-                    mOKManager.connect();
+                 //   BLEDisconnect(bleconnbleDevice);
+                  //  mInfo = new ConnectionInfo(ip_addr, 3338);
+                  //  mOKManager = OkSocket.open(mInfo).option(mOkOptions);
+                  //  mOKManager.registerReceiver(adapter);
+                 //   mOKManager.connect();
                 }
              }
         };
@@ -242,8 +243,8 @@ public class MainActivity extends AppCompatActivity {
 
         if(mOKManager != null) {
             if(mOKManager.isConnect() == false) {
-                BLEDisconnect(bleconnbleDevice);
-                mOKManager.connect();
+              //  BLEDisconnect(bleconnbleDevice);
+                //mOKManager.connect();
             }
         }
         SP_IP.registerOnSharedPreferenceChangeListener(mIPListener);
@@ -304,8 +305,42 @@ public class MainActivity extends AppCompatActivity {
                 checkPermissions();
                 setWifiDialog();
                 break;
+                /*
+            case R.id.scan_ip_btn:
+
+                checkPermissions();
+                scanIPDialog();
+                break;
+                */
+
         }
 
+    }
+
+
+    private void scanIPDialog() {
+
+        AlertDialog.Builder builder = new AlertDialog.Builder(this).setIcon(R.mipmap.ic_launcher).setTitle(R.string.scan_ip)
+                .setMessage("Start scanning IP?").setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialogInterface, int i) {
+                        if (isBLEConnectedDevice()) {
+
+                                sendCmdWithData(bleCommTx.commTxMakeFrame(CommTx.IPADDR_IND, null));
+
+                            Toast.makeText(MainActivity.this, "Scanning,please wait", Toast.LENGTH_LONG).show();
+                        }else
+                        Toast.makeText(MainActivity.this, "Bluetooth ble Disconnect", Toast.LENGTH_LONG).show();
+                    }
+                }).setNegativeButton("No", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialogInterface, int i) {
+
+                       // Toast.makeText(MainActivity.this, "关闭按钮", Toast.LENGTH_LONG).show();
+                        dialogInterface.dismiss();
+                    }
+                });
+       builder.create().show();
     }
 
     private void setWifiDialog() {
@@ -530,6 +565,8 @@ public class MainActivity extends AppCompatActivity {
                                                                 Toast.LENGTH_LONG).show();
                                                     }
                                                 }
+                                                TextView ip_show = findViewById(R.id.ip_string);
+                                                ip_show.setText("IP: "+ip_addr);
                                             }
                                         }
                                     }
